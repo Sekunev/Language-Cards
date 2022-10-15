@@ -29,7 +29,7 @@ SOLUTION
 │    ├── helper
 │    │       └── data.js
 │    ├── App.js
-│    ├── language-cards.gif
+│    ├── Animation.gif
 │    ├── index.js
 │    └── index.css
 ├── package.json
