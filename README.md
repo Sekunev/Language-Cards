@@ -8,7 +8,7 @@ Project aims to create a Languages Cards App.
 
 ### Visualization of the Website
 
-![image](https://github.com/Sekunev/Tour-Places/blob/main/src/Animation.gif)
+![image](https://github.com/Sekunev/Language-Cards/blob/main/src/Animation.gif)
 
 ### Project Skeleton
 
