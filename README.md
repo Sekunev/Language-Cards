@@ -1,4 +1,5 @@
-# Tour Places
+# Language Cards
+
 
 ### Check The Live Website ➡️ [Live Website](https://sekunev-language-cards.netlify.app/)
 
