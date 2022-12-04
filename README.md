@@ -39,4 +39,4 @@ SOLUTION
 
 ### Used in this project
 
-👉 I mastered ReactJS (Components, JSX, Style, Props, state), React-Boostrap, HTML, CSS, SCSS and Javascript features in this project. You can see the visual representation of the website above.
+👉 I mastered ReactJS (Components, JSX, Style, Props, state), React-Boostrap, HTML, CSS, and Javascript features in this project. You can see the visual representation of the website above.
